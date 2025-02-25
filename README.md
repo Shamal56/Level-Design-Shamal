@@ -12,6 +12,8 @@ Welcome to the **Re:Live Blueprints** Unreal Engine project! This project focuse
   - `WDG_Interact` - Handles player interactions with objects and the environment.
   - `WDG_Confirm_Prompt` - Manages Yes/No decision prompts, influencing gameplay outcomes.
   - `BP_Entrance` - This has a collistion box that when a player came to it .
+  - `WDG_content_Area` - This Text area will show the content available for that area .
+  - `WDG_Choice` - This will show the outcome of the choice you choose after you read a 1 content page .
 
 ## 🚀 Features
 
