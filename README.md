@@ -16,6 +16,7 @@ Welcome to the **Re:Live Blueprints** Unreal Engine project! This project focuse
   - `WDG_Choice` - This will show the outcome of the choice you choose after you read a 1 content page .
   - `Save game` - After terminating a session it will automatically save the game level and location of the player .
   - `Load game` - In the main menu if you choose to select continue it will go to the last saved location .
+  - `Final Adjustments` - Fixed blueprint compilation errors and Improved the load and save functionality by adding a gameinstance class .
 
 ## 🚀 Features
 
@@ -24,6 +25,9 @@ Welcome to the **Re:Live Blueprints** Unreal Engine project! This project focuse
 
 - **Decision Prompt System:**  
   A dynamic Yes/No prompt that affects the Game on the player's choices.
+
+- **Save And Load:**  
+  Auto save when you return to main menu and when you press continue in the main menu it will go to that area.
 
 ## 📜 License
 
